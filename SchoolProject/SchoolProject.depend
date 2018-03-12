@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1520861944 source:c:\project\schoolproject\main.cpp
+	<list>
+	<iostream>
+	<string>
+	<windows.h>
+	<mysql.h>
+	<stdlib.h>
+	<math.h>
+
